@@ -1,4 +1,2 @@
-# firebase-firestore-playlist
-All course files for the Firebase Firestore playlist on The Net Ninja YouTube channel. 
-
-Make sure you select the correct branch to see the files :)
+# Project motive is to store information of cafe outlets present.
+#Use firebase for  store data.
